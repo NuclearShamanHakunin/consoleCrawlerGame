@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\marko\desktop\consolecrawlergame\consolecrawlergame\consoleapplication1\source.cpp(729): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\marko\desktop\consolecrawlergame\consolecrawlergame\consoleapplication1\source.cpp(722): warning C4101: 'j': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\Marko\Desktop\consoleCrawlerGame\consoleCrawlerGame\x64\Debug\consoleCrawlerGame.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Marko\Desktop\consoleCrawlerGame\consoleCrawlerGame\x64\Debug\consoleCrawlerGame.pdb (Partial PDB)
