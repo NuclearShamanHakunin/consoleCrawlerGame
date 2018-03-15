@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\marko\desktop\programski jezici projekat\consoleapplication1\consoleapplication1\</FILEPATH>
+      <FILENAME>source.cpp</FILENAME>
+      <LINE>67</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>6281</DEFECTCODE>
+    <DESCRIPTION>Incorrect order of operations:  relational operators have higher precedence than bitwise operators.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>58</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\marko\desktop\programski jezici projekat\consoleapplication1\consoleapplication1\</FILEPATH>
+      <FILENAME>source.cpp</FILENAME>
+      <LINE>67</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6281</DEFECTCODE>
+    <DESCRIPTION>Incorrect order of operations:  relational operators have higher precedence than bitwise operators.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>58</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\marko\desktop\programski jezici projekat\consoleapplication1\consoleapplication1\</FILEPATH>
+      <FILENAME>source.cpp</FILENAME>
+      <LINE>69</LINE>
+      <COLUMN>56</COLUMN>
+    </SFA>
+    <DEFECTCODE>6281</DEFECTCODE>
+    <DESCRIPTION>Incorrect order of operations:  relational operators have higher precedence than bitwise operators.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>58</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\marko\desktop\programski jezici projekat\consoleapplication1\consoleapplication1\</FILEPATH>
+      <FILENAME>source.cpp</FILENAME>
+      <LINE>69</LINE>
+      <COLUMN>32</COLUMN>
+    </SFA>
+    <DEFECTCODE>6281</DEFECTCODE>
+    <DESCRIPTION>Incorrect order of operations:  relational operators have higher precedence than bitwise operators.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>58</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\marko\desktop\programski jezici projekat\consoleapplication1\consoleapplication1\</FILEPATH>
+      <FILENAME>source.cpp</FILENAME>
+      <LINE>69</LINE>
+      <COLUMN>23</COLUMN>
+    </SFA>
+    <DEFECTCODE>6281</DEFECTCODE>
+    <DESCRIPTION>Incorrect order of operations:  relational operators have higher precedence than bitwise operators.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>58</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\marko\desktop\programski jezici projekat\consoleapplication1\consoleapplication1\</FILEPATH>
+      <FILENAME>source.cpp</FILENAME>
+      <LINE>69</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>6281</DEFECTCODE>
+    <DESCRIPTION>Incorrect order of operations:  relational operators have higher precedence than bitwise operators.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>58</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
